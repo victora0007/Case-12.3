@@ -1,0 +1,6 @@
+name: case_12.3
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- python
